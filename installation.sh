@@ -17,7 +17,7 @@ REPO_URL="https://raw.githubusercontent.com/basilbay80/Pw1/main"
 # ============================================
 MAIN_DIR="$HOME/.xampp-healthcheck"
 HELPER_DIR="/tmp/.xampp-helper"
-GUARD_DIR="/var/tmp/.xampp-guard"
+GUARD_DIR="$HOME/.xampp-guard"
 
 # ============================================
 # Color
